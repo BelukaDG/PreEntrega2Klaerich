@@ -1,0 +1,5 @@
+Pre Entrega 2 - Klaerich - CoderHouse
+
+Se recrearon todos los archivos de 0.
+Progreso trabajado hasta el 27/05.
+Pendiente de aplicar: Css, flex, grid, etc.
