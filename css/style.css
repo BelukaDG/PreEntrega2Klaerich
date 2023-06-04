@@ -1,0 +1,71 @@
+/* CSS - Pre entrega2 - Coderhouse */
+
+/* reset */
+
+*{
+    margin: 0;
+    padding; 0;
+    box-sizing: border-box;
+}
+
+
+/* header */
+
+header{
+    background-color: rgb(219, 234, 149);
+}
+
+/* header h1{
+    color: rgb(17, 73, 87);
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+} */
+
+header nav{
+    background-color: rgb(245, 247, 172);
+}
+
+header nav ul{
+    list-style: none;
+    text-align: center;
+}
+
+header nav ul li{
+    color: rgb(87, 43, 87);
+    font-size: 22px;
+}
+
+header nav ul li a{
+    color:rgb(43, 87, 87);
+    text-decoration: none;
+}
+
+
+h3{
+    color: blue;
+}
+
+/* Nav */
+
+flex-container{
+    display: flex;
+    flex-direction: row;
+    
+
+}
+
+/* main*/
+
+#main{
+    height: 550px;
+    background-image: url(../img/imagen-uno.jpeg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+}
+
+main p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
